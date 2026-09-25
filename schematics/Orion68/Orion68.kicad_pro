@@ -640,7 +640,7 @@
     ],
     [
       "5455728c-12b6-4d1f-a689-04b2dec68816",
-      "Ogion68-PSUcontrol"
+      "Orion68-PSUcontrol"
     ],
     [
       "70b7defe-43f8-4fe6-9382-ae901438ae75",
@@ -668,7 +668,11 @@
     ],
     [
       "1442d4b3-66d6-41f9-bdb6-3593017f1fe0",
-      "Ogion68-IOsupport"
+      "Orion68-IOsupport"
+    ],
+    [
+      "34052055-7f61-41f5-bfd1-5ef7d5f89cb6",
+      "Orion-ide_driver"
     ]
   ],
   "text_variables": {}

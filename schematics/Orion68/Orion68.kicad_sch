@@ -51,7 +51,7 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "1442d4b3-66d6-41f9-bdb6-3593017f1fe0")
-		(property "Sheetname" "Ogion68-IOsupport"
+		(property "Sheetname" "Orion68-IOsupport"
 			(at 19.304 102.6664 0)
 			(effects
 				(font
@@ -120,6 +120,48 @@
 		)
 	)
 	(sheet
+		(at 19.05 127)
+		(size 32.385 5.08)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "34052055-7f61-41f5-bfd1-5ef7d5f89cb6")
+		(property "Sheetname" "Orion-ide_driver"
+			(at 19.05 126.2884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ide_driver.kicad_sch"
+			(at 19.05 132.6646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Orion68"
+				(path "/c7ab032b-c937-44de-ab42-c91dee57f0a8"
+					(page "10")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 19.05 115.57)
 		(size 32.258 4.572)
 		(exclude_from_sim no)
@@ -135,7 +177,7 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "5455728c-12b6-4d1f-a689-04b2dec68816")
-		(property "Sheetname" "Ogion68-PSUcontrol"
+		(property "Sheetname" "Orion68-PSUcontrol"
 			(at 19.05 114.8584 0)
 			(effects
 				(font
