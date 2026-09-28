@@ -7861,7 +7861,7 @@
 		)
 		(uuid 196726b8-8474-42c3-a524-c210a3eefcf5)
 	)
-	(text "FF4000 - FF40FF   UART0\nFF4100 - FF41FF   UART1\nFF4200 - FF42FF   UART2\nFF4300 - FF43FF   UART3\nFF4400 - FF44FF   Hard disk ATA/IDE \nFF4500 - FF45FF   MemSlots\nFF4600 - FF46FF   free  \nFF4700 - FF47FF   free  "
+	(text "FF4000 - FF40FF   UART0\nFF4100 - FF41FF   UART1\nFF4200 - FF42FF   UART2\nFF4300 - FF43FF   UART3\nFF4400 - FF44FF   Hard disk ATA/IDE \nFF4500 - FF45FF   free\nFF4600 - FF46FF   free  \nFF4700 - FF47FF   free  "
 		(exclude_from_sim no)
 		(at 351.028 36.576 0)
 		(effects
@@ -17577,7 +17577,7 @@
 		(uuid "5e12606e-77e8-4064-a1b4-83ab1336bca5")
 	)
 	(label "{slash}AS"
-		(at 344.17 78.74 180)
+		(at 379.73 74.93 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -18257,7 +18257,7 @@
 		(uuid "c2173646-a088-4afb-95db-f51c7279aeed")
 	)
 	(label "A11"
-		(at 379.73 74.93 180)
+		(at 344.17 78.74 180)
 		(effects
 			(font
 				(size 1.27 1.27)
